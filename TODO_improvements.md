@@ -9,5 +9,5 @@ What is the improvements? So far, people have been [`reaching out to me`](https:
 - [ ] Checks
 - [ ] SelfKill
 - [ ] Cryptography
-
+- [ ] FUD
 I will be writing a paper about this as well, it will also be a key concept in the [`zines`](https://github.com/loneicewolf/Zines) I will be making!
