@@ -202,3 +202,11 @@ int main(int argc, char **argv) {
 
 
 
+
+
+# TODO
+- https://master.dl.sourceforge.net/project/libobfuscate/v2.00/libObfuscate.zip?viasf=1
+- https://embeddedsw.net/zip/libObfuscate_release.zip
+- https://embeddedsw.net/zip/libObfuscate_release.zip
+- https://embeddedsw.net/zip/MultiObfuscator_release.zip
+- https://embeddedsw.net/zip/OpenPuff_release.zip
